@@ -16,7 +16,12 @@
     //
     function onDeviceReady() {
         // Now safe to use device APIs
-    window.location="http://www.theview.pl"; }
+    showSpinner() // implement by yourself
+var popup = window.open(url, "http://theview.pl/index.php", "location=no,toolbar=no,hidden=yes");
+popup.addEventListener("loadstop", function() {
+  popup.show();
+  hideSpinner(); // implement by yourself
+});
 
     </script>
   </head>
