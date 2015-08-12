@@ -1,7 +1,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.optinex.theview" version="1.0.0">
   <name>theviewwarsaw</name>
   <description>...like no other</description>
-  <author href="http://www.optinex.com.pl" email="skibicki@optinex.pl">PhoneGap Team</author>
+  <author href="http://www.optinex.com.pl" email="skibicki@optinex.pl">Michal Skibicki</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
   <preference name="orientation" value="default"/>
