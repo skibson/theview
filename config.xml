@@ -2,7 +2,7 @@
   <name>theviewwarsaw</name>
   <description>...like no other</description>
   <author href="http://www.optinex.com.pl" email="skibicki@optinex.pl">Michal Skibicki</author>
-  <content src="index.html"/>
+  <content src="http://www.theview.pl/index.php"/>
   <preference name="permissions" value="none"/>
   <preference name="orientation" value="default"/>
   <preference name="target-device" value="universal"/>
